@@ -19,12 +19,13 @@
     <item>
       <title>About</title>
       <link>https://www.homeintelligence.uk/pages/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.homeintelligence.uk/pages/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <description>Hi,
+My name&amp;rsquo;s David, I&amp;rsquo;m a software developer.
+I live in a small semi-detached house just outside London in the UK. It&amp;rsquo;s a pretty average looking three-bedroom place, but underneath the average appearance I like to use technology to smarten it up.
+I&amp;rsquo;ve created this blog to talk about this kind of technology. Each idea that I implement is called a feature, some succeed, some fail and most end up being in a state of permanent work in progress.</description>
     </item>
     
     <item>

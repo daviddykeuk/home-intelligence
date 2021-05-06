@@ -6,14 +6,16 @@
     <description>Recent content in Posts on Home Intelligence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.homeintelligence.uk/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 May 2021 14:19:02 +0100</lastBuildDate><atom:link href="https://www.homeintelligence.uk/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Placeholder Text</title>
-      <link>https://www.homeintelligence.uk/p/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Rules of Home Intelligence</title>
+      <link>https://www.homeintelligence.uk/p/rules-of-home-intelligence/</link>
+      <pubDate>Thu, 06 May 2021 14:19:02 +0100</pubDate>
       
-      <guid>https://www.homeintelligence.uk/p/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <guid>https://www.homeintelligence.uk/p/rules-of-home-intelligence/</guid>
+      <description>There are a lot of things one can automate around the home, but that doesn&amp;rsquo;t mean you need to do it. I want to make sure that the technology that I install isn&amp;rsquo;t intrusive and makes things easier.
+Therefore I have created the following rules for my smart home.
+ No feature should require constant babysitting, it should just work. No feature should make a task harder than it currently is.</description>
     </item>
     
   </channel>
